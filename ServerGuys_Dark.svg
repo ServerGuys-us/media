@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 160" width="760" height="160">
+  <!-- Terminal icon background -->
+  <rect x="10" y="10" width="140" height="140" rx="28" ry="28" fill="#2d3a4a"/>
+
+  <!-- Chevron > -->
+  <polyline points="48,58 88,80 48,102" fill="none" stroke="white" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Underscore/cursor bar -->
+  <line x1="88" y1="108" x2="128" y2="108" stroke="white" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- ServerGuys wordmark -->
+  <text
+    x="175"
+    y="118"
+    font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+    font-weight="700"
+    font-size="78"
+    fill="#1e2a38"
+    letter-spacing="-1"
+  >ServerGuys</text>
+</svg>
